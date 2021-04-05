@@ -16,6 +16,10 @@ Once you have Java downloaded you are now able to run Java files.
 Second step,
 Make sure you downloaded the source code for this battle ship game. You could either clone the repo into your terminal, or you can just downloaded the files individually. 
 
+```
+git clone <your repo link >  #you should see this when you click code and hit clone
+```
+
 To execute the game, use the following commands
 
 ```bash
