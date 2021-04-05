@@ -5,7 +5,7 @@ Battleship game played through terminal. The code is written in Java. If you wan
 
 
 First off, make sure you have Java downloaded onto your computer. 
-Make sure you go to his site below and downloaded Java
+Make sure you go to his site below and download the right Java files for your OS
 
 ```bash
 https://www.java.com/en/download/
