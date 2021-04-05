@@ -1,5 +1,5 @@
 # BattleShip
-One of my school projects. 
+One of my school projects I did at the University Of Minnesota Twin-Cities
 Battleship game played through terminal. The code is written in Java
 
 If you want to play this Java BattleShip game you can do the following.
